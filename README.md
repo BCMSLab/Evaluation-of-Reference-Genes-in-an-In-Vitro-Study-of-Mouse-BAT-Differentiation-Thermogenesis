@@ -1,2 +1,2 @@
 # Reliable conference genes for BAT gene expression studies
-Data analysis source code for the manuscript "Reliable reference genes for expression analysis of adipogenically differentiating brown mouse adipose stromal cells"
+Data analysis source code for the manuscript "A Comparative evaluation of reference genes in an in vitro study of mouse brown adipocyte differentiation and thermogenesis"
